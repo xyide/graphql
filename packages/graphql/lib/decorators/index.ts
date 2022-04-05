@@ -8,6 +8,8 @@ export * from './hide-field.decorator';
 export * from './info.decorator';
 export * from './input-type.decorator';
 export * from './interface-type.decorator';
+export * from './loader-context.decorator';
+export * from './loader.decorator';
 export * from './mutation.decorator';
 export * from './object-type.decorator';
 export * from './parent.decorator';
